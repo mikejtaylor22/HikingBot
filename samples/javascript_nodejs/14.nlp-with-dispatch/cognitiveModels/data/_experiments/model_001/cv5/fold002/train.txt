@@ -1,0 +1,9 @@
+Label	Weight	Text
+l_hikingAndClimbing	1	trails near me
+l_hikingAndClimbing	1	park near me
+l_hikingAndClimbing	1	climbs near me
+l_hikingAndClimbing	1	hiking parks near me
+l_hikingAndClimbing	1	trails nearby
+l_hikingAndClimbing	1	rock climbing near me
+l_hikingAndClimbing	1	hikes near me
+q_hikingandclimbing-qna	1	Hello, How are you

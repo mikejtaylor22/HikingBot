@@ -1,0 +1,39 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": true,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "l_hikingAndClimbing",
+      "appId": "ca5c5b92-5d16-4c10-b2c7-c50bc9b8f301",
+      "authoringKey": "45a7f3fe6c1144ada4894614b757efcf",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "MikeBotLuisApp",
+      "id": "1"
+    },
+    {
+      "intentName": "q_hikingandclimbing-qna",
+      "includePrompts": true,
+      "kbId": "4fb6f865-bfeb-4f73-af50-be51de718281",
+      "subscriptionKey": "773b567787f34e51b97e4851057fa797",
+      "type": "qna",
+      "name": "HikingKnowledgeBaseMike",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "e4161c55-2aef-4dc3-bbf3-96b09d103d2f",
+  "authoringKey": "45a7f3fe6c1144ada4894614b757efcf",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "MikeBotDispatch"
+}

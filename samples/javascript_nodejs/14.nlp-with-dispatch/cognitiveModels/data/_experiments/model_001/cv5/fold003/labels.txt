@@ -1,0 +1,3 @@
+Label	LabelName	Samples
+0	l_hikingAndClimbing	9
+1	q_hikingandclimbing-qna	1

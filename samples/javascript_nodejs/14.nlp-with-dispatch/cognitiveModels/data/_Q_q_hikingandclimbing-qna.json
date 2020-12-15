@@ -1,0 +1,19 @@
+{
+  "qnaDocuments": [
+    {
+      "id": 1,
+      "answer": "Mike bot is well!",
+      "source": "Editorial",
+      "questions": [
+        "Hello, How are you?"
+      ],
+      "metadata": [],
+      "alternateQuestionClusters": [],
+      "context": {
+        "isContextOnly": false,
+        "prompts": []
+      },
+      "lastUpdatedTimestamp": "2020-12-15T00:01:28.646+00:00"
+    }
+  ]
+}

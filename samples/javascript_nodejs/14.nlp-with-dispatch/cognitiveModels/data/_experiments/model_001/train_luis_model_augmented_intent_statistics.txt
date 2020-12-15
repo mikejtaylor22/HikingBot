@@ -1,0 +1,4 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_hikingAndClimbing	9	14.88889	21	12	3.33333
+1	q_hikingandclimbing-qna	1	18	18	18	NaN
+ 	__ALL__	10	15.2	21	12	3.29309

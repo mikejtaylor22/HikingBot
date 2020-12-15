@@ -60,13 +60,10 @@ class DispatchBot extends ActivityHandler {
 
     async dispatchToTopIntentAsync(context, intent, recognizerResult) {
         switch (intent) {
-        case 'l_HomeAutomation':
-            await this.processHomeAutomation(context, recognizerResult.luisResult);
-            break;
-        case 'l_Weather':
+            case 'l_hikingAndClimbing':
             await this.processWeather(context, recognizerResult.luisResult);
             break;
-        case 'q_sample-qna':
+            case 'q_hikingandclimbing-qna':
             await this.processSampleQnA(context);
             break;
         default:

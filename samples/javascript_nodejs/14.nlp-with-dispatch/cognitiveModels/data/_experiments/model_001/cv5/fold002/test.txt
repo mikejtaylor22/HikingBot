@@ -1,0 +1,3 @@
+Label	Weight	Text
+l_hikingAndClimbing	1	cliffs to climb
+l_hikingAndClimbing	1	hikes nearby

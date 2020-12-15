@@ -1,0 +1,88 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "l_hikingAndClimbing"
+    },
+    {
+      "name": "q_hikingandclimbing-qna"
+    }
+  ],
+  "entities": [],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [],
+  "utterances": [
+    {
+      "text": "trails near me",
+      "intent": "l_hikingAndClimbing",
+      "entities": []
+    },
+    {
+      "text": "park near me",
+      "intent": "l_hikingAndClimbing",
+      "entities": []
+    },
+    {
+      "text": "climbs near me",
+      "intent": "l_hikingAndClimbing",
+      "entities": []
+    },
+    {
+      "text": "hiking parks near me",
+      "intent": "l_hikingAndClimbing",
+      "entities": []
+    },
+    {
+      "text": "cliffs to climb",
+      "intent": "l_hikingAndClimbing",
+      "entities": []
+    },
+    {
+      "text": "hikes nearby",
+      "intent": "l_hikingAndClimbing",
+      "entities": []
+    },
+    {
+      "text": "trails nearby",
+      "intent": "l_hikingAndClimbing",
+      "entities": []
+    },
+    {
+      "text": "rock climbing near me",
+      "intent": "l_hikingAndClimbing",
+      "entities": []
+    },
+    {
+      "text": "hikes near me",
+      "intent": "l_hikingAndClimbing",
+      "entities": []
+    },
+    {
+      "text": "hello, how are you",
+      "intent": "q_hikingandclimbing-qna",
+      "entities": []
+    }
+  ],
+  "versionId": "Dispatch",
+  "name": "MikeBotDispatch",
+  "desc": "Dispatch model for MikeBotDispatch",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [],
+  "settings": [
+    {
+      "name": "NormalizeDiacritics",
+      "value": "true"
+    },
+    {
+      "name": "UseAllTrainingData",
+      "value": "true"
+    }
+  ]
+}

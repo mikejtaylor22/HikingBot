@@ -1,0 +1,3 @@
+Label	Weight	Text
+l_hikingAndClimbing	1	rock climbing near me
+l_hikingAndClimbing	1	hikes near me
